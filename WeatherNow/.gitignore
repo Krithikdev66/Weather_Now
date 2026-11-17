@@ -1,0 +1,18 @@
+# Environment variables & secrets (NEVER commit .env to GitHub)
+.env
+.env.local
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

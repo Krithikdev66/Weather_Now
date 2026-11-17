@@ -1,0 +1,6 @@
+{
+  "name": "WeatherNow",
+  "description": "Live weather dashboard and beginner-friendly Python Streamlit portfolio project powered by live weather APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
